@@ -1,5 +1,5 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+EXPT NO: 2 OCC AND LOAD CHARACTERISTICS AND MAGNETISATION CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -50,14 +50,32 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
+<img width="1104" height="973" alt="Load (tabulation)" src="https://github.com/user-attachments/assets/a945b1af-c1eb-4944-8830-d71f5a4edf3d" />
 
 Model graph:
-Calculation: 
+<img width="1653" height="538" alt="Load graph" src="https://github.com/user-attachments/assets/8c8b33b5-68d3-4f58-8103-515ac2c37e93" />
 
 Open circuit characteristics
 
   
 Load Characteristics:
- 
+ <img width="1530" height="704" alt="Load Characterstics of DC Shunt Generator" src="https://github.com/user-attachments/assets/283d7b78-2c8f-461a-947b-80bea05f625c" />
+
+
+Tabulation for Magnetisation Test:
+
+<img width="412" height="365" alt="Magnetisation tabulation" src="https://github.com/user-attachments/assets/08010f0c-4143-4319-9243-9a097ffc2681" />
+
+
+Model graph:
+
+<img width="757" height="363" alt="Magnetisation graph" src="https://github.com/user-attachments/assets/313a9543-4a41-4ee9-acc2-674622a20d3e" />
+
+Open circuit characteristics
+
+  
+Magnetisation Characteristics:
+<img width="1332" height="755" alt="Magnetisation Characteristics of DC Shunt Generator" src="https://github.com/user-attachments/assets/34bb08f4-bac1-4cec-9480-fd49d12571f0" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
